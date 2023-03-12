@@ -17,6 +17,7 @@
 /Assets/Plugins/Native Audio/Runtime/*
 !/Assets/Plugins/Native Audio/Runtime/
 !/Assets/Plugins/Native Audio/Runtime/E7.NativeAudio.asmdef
+!/Assets/Plugins/Native Audio/Runtime/E7.NativeAudio.asmdef.meta
 
 # EmmySharp testing
 .vscode/workspace/
